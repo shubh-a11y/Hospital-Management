@@ -1,5 +1,23 @@
 # Hospital Management System
 
+
+![WhatsApp Image 2025-11-01 at 20 20 49_e976c884](https://github.com/user-attachments/assets/0c071c94-c8b3-42e7-9492-ba8555615c87)
+
+![WhatsApp Image 2025-11-01 at 20 20 50_92f2bb18](https://github.com/user-attachments/assets/3fbe68ee-4920-4982-b6a4-c8dc54adb791)
+
+![WhatsApp Image 2025-11-01 at 20 20 50_abc2ecce](https://github.com/user-attachments/assets/596dec84-939d-44ff-aa78-e0a84f4ad9bd)
+
+![WhatsApp Image 2025-11-01 at 20 20 51_20a0ff89](https://github.com/user-attachments/assets/fef23094-4a4a-4069-afc1-b60345eddb2a)
+
+![WhatsApp Image 2025-11-01 at 20 20 56_802b38c6](https://github.com/user-attachments/assets/4f1b74c3-1d5a-40e9-8804-9a4a2279f070)
+
+![WhatsApp Image 2025-11-01 at 20 20 56_c9578cc6](https://github.com/user-attachments/assets/ab280a62-e992-443b-91f9-5b931afab8da)
+
+![WhatsApp Image 2025-11-01 at 20 20 50_40347966](https://github.com/user-attachments/assets/60447a00-e79d-483b-9d58-2a96f1e4e698)
+
+
+
+
 A comprehensive web-based Hospital Management System built using React for the frontend, Node.js with Express for the backend, and MongoDB for the database.
 
 ## 🏥 Overview
